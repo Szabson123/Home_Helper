@@ -24,5 +24,6 @@ def conf_def():
     page1_text.grid(row=0, column=1, padx=10, sticky='w')  # Dodajemy trochę miejsca po lewej stronie pola Entry
     
     root.mainloop()
+    
 
 conf_def()
